@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #e6682e;
+    color: #F18452;
 }
 
 h1,
@@ -65,7 +65,7 @@ hr.star-primary:after {
 }
 
 hr.star-about:after {
-    background-color: #e6682e;
+    background-color: #F18452;
 }
 
 hr.star-light {
@@ -74,7 +74,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #e6682e;
+    background-color: #F18452;
 }
 
 .img-centered {
@@ -84,7 +84,7 @@ hr.star-light:after {
 header {
     text-align: center;
     color: #fff;
-    background: #e6682e;
+    background: #F18452;
 }
 
 header .container {
@@ -183,7 +183,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #e6682e;
+    background: #F18452;
 }
 
 section.success a,
@@ -205,6 +205,13 @@ section.success a.active {
     }
 }
 
+.experience-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
 .portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
@@ -222,7 +229,7 @@ section.success a.active {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: #e6682e;
+    background: #F18452;
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -261,7 +268,7 @@ section.success a.active {
     align-content: center;
     justify-content: center;
     flex-direction: column;
-    background-color: #e6682e;
+    background-color: #F18452;
     height: 220px;
     z-index: -1;
 
@@ -273,6 +280,15 @@ section.success a.active {
     justify-content: center;
     z-index: 0;
 }
+
+.portfolio-box .portfolio-subtitle {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    z-index: 0;
+}
+
+
 
 @media(min-width:767px) {
     .portfolio .portfolio-item {
@@ -294,7 +310,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #e6682e;
+    color: #F18452;
     background: #fff;
 }
 
@@ -347,7 +363,7 @@ section.success a.active {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #e6682e;
+    color: #F18452;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -360,6 +376,7 @@ footer {
 
 footer h3 {
     margin-bottom: 30px;
+    color: #F18452;
 }
 
 footer .footer-above {
