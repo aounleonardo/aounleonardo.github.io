@@ -271,7 +271,6 @@ section.success a.active {
     background-color: #F18452;
     height: 220px;
     z-index: -1;
-
 }
 
 .portfolio-box .portfolio-title {
@@ -279,6 +278,7 @@ section.success a.active {
     align-content: center;
     justify-content: center;
     z-index: 0;
+    text-align: center;
 }
 
 .portfolio-box .portfolio-subtitle {
@@ -286,6 +286,7 @@ section.success a.active {
     align-content: center;
     justify-content: center;
     z-index: 0;
+    text-align: center;
 }
 
 
