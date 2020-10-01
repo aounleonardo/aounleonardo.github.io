@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web | Travelling Codesman</title>
+    <link>/tag/web/</link>
+      <atom:link href="/tag/web/index.xml" rel="self" type="application/rss+xml" />
+    <description>Web</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Sun, 06 Jan 2019 00:00:03 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu474e9d5b9405385f9dc734dc8895eb59_313813_512x512_fill_lanczos_center_2.png</url>
+      <title>Web</title>
+      <link>/tag/web/</link>
+    </image>
+    
+    <item>
+      <title>RASP</title>
+      <link>/project/rasp/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:03 +0100</pubDate>
+      <guid>/project/rasp/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Created an asynchronous yet fair Rock Paper Scissors game&lt;/li&gt;
+&lt;li&gt;Coded the UI in React and the supporting blockchain in Golang&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pitchgrader</title>
+      <link>/project/pitchgrader/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:17 +0100</pubDate>
+      <guid>/project/pitchgrader/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Built an application to analyze Football and Tennis fields in Switzerland&lt;/li&gt;
+&lt;li&gt;Used NodeJS and React for the web app&lt;/li&gt;
+&lt;li&gt;Preprocessed satellite images in OpenCV&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

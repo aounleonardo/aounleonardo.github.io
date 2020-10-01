@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence | Travelling Codesman</title>
+    <link>/tag/artificial-intelligence/</link>
+      <atom:link href="/tag/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artificial Intelligence</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Sun, 29 Mar 2020 23:59:10 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu474e9d5b9405385f9dc734dc8895eb59_313813_512x512_fill_lanczos_center_2.png</url>
+      <title>Artificial Intelligence</title>
+      <link>/tag/artificial-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>Spread Classification</title>
+      <link>/project/spread_classification/</link>
+      <pubDate>Sun, 29 Mar 2020 23:59:10 +0100</pubDate>
+      <guid>/project/spread_classification/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Collaborated with a &lt;a href=&#34;https://astroscreen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;start-up&lt;/a&gt; focused on detecting Social Media Manipulation and the &lt;a href=&#34;https://cvlab.epfl.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer Vision Lab&lt;/a&gt; at EPFL&lt;/li&gt;
+&lt;li&gt;Reviewed the literature on Geometric Deep Learning and Social Media Manipulation Detection and Computer Vision&lt;/li&gt;
+&lt;li&gt;Built a graph classifier using PyTorch, Ignite and DGL&lt;/li&gt;
+&lt;li&gt;Compared against benchmarks in Natural Language Processing&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

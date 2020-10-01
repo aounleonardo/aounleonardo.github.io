@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AR | Travelling Codesman</title>
+    <link>/tag/ar/</link>
+      <atom:link href="/tag/ar/index.xml" rel="self" type="application/rss+xml" />
+    <description>AR</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Fri, 28 Sep 2018 23:59:56 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu474e9d5b9405385f9dc734dc8895eb59_313813_512x512_fill_lanczos_center_2.png</url>
+      <title>AR</title>
+      <link>/tag/ar/</link>
+    </image>
+    
+    <item>
+      <title>Indoor Navigator</title>
+      <link>/project/indoor_navigator/</link>
+      <pubDate>Fri, 28 Sep 2018 23:59:56 +0100</pubDate>
+      <guid>/project/indoor_navigator/</guid>
+      <description>&lt;p&gt;Implemented a plugin to the EPFLCampus ioS app to localize users inside campus buildings and navigate them to their desired destination in augmented reality&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spellcraft</title>
+      <link>/project/spellcraft/</link>
+      <pubDate>Wed, 07 Dec 2016 00:00:25 +0100</pubDate>
+      <guid>/project/spellcraft/</guid>
+      <description>&lt;p&gt;Built the UX for a multiplayer wizard fighting augmented-reality game for the Microsoft Hololens&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

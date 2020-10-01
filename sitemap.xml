@@ -3,15 +3,215 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aounleonardo.github.io/categories/</loc>
+    <loc>/tag/artificial-intelligence/</loc>
+    <lastmod>2020-03-29T23:59:10+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aounleonardo.github.io/tags/</loc>
+    <loc>/tag/computer-vision/</loc>
+    <lastmod>2020-03-29T23:59:10+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aounleonardo.github.io/</loc>
+    <loc>/tag/deep-learning/</loc>
+    <lastmod>2020-03-29T23:59:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/geometric-deep-learning/</loc>
+    <lastmod>2020-03-29T23:59:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/machine-learning/</loc>
+    <lastmod>2020-03-29T23:59:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/natural-language-processing/</loc>
+    <lastmod>2020-03-29T23:59:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-03-29T23:59:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/python/</loc>
+    <lastmod>2020-03-29T23:59:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pytorch/</loc>
+    <lastmod>2020-03-29T23:59:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/spread_classification/</loc>
+    <lastmod>2020-03-29T23:59:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-03-29T23:59:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-03-29T23:59:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/blockchain/</loc>
+    <lastmod>2019-01-06T00:00:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/decentralized-systems/</loc>
+    <lastmod>2019-01-06T00:00:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/game-development/</loc>
+    <lastmod>2019-01-06T00:00:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/golang/</loc>
+    <lastmod>2019-01-06T00:00:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/rasp/</loc>
+    <lastmod>2019-01-06T00:00:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/react/</loc>
+    <lastmod>2019-01-06T00:00:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/web/</loc>
+    <lastmod>2019-01-06T00:00:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ar/</loc>
+    <lastmod>2018-09-28T23:59:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/arkit/</loc>
+    <lastmod>2018-09-28T23:59:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/extended-reality/</loc>
+    <lastmod>2018-09-28T23:59:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/indoor_navigator/</loc>
+    <lastmod>2018-09-28T23:59:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ios/</loc>
+    <lastmod>2018-09-28T23:59:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/mobile/</loc>
+    <lastmod>2018-09-28T23:59:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/mern/</loc>
+    <lastmod>2018-06-08T00:00:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/nodejs/</loc>
+    <lastmod>2018-06-08T00:00:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/opencv/</loc>
+    <lastmod>2018-06-08T00:00:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/pitchgrader/</loc>
+    <lastmod>2018-06-08T00:00:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/catapult_vr/</loc>
+    <lastmod>2018-05-28T00:00:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/unity/</loc>
+    <lastmod>2018-05-28T00:00:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/vr/</loc>
+    <lastmod>2018-05-28T00:00:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/neo/</loc>
+    <lastmod>2018-02-25T23:59:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/neocaritas/</loc>
+    <lastmod>2018-02-25T23:59:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/microsoft-hololens/</loc>
+    <lastmod>2016-12-07T00:00:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/spellcraft/</loc>
+    <lastmod>2016-12-07T00:00:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/leonardo-aoun/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/tag/ui/ux/</loc>
   </url>
   
 </urlset>
