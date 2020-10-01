@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neo | Travelling Codesman</title>
-    <link>/tag/neo/</link>
-      <atom:link href="/tag/neo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aounleonardo.github.io/tag/neo/</link>
+      <atom:link href="https://aounleonardo.github.io/tag/neo/index.xml" rel="self" type="application/rss+xml" />
     <description>Neo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Sun, 25 Feb 2018 23:59:24 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu474e9d5b9405385f9dc734dc8895eb59_313813_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aounleonardo.github.io/images/icon_hu474e9d5b9405385f9dc734dc8895eb59_313813_512x512_fill_lanczos_center_2.png</url>
       <title>Neo</title>
-      <link>/tag/neo/</link>
+      <link>https://aounleonardo.github.io/tag/neo/</link>
     </image>
     
     <item>
       <title>Neocaritas</title>
-      <link>/project/neocaritas/</link>
+      <link>https://aounleonardo.github.io/project/neocaritas/</link>
       <pubDate>Sun, 25 Feb 2018 23:59:24 +0100</pubDate>
-      <guid>/project/neocaritas/</guid>
+      <guid>https://aounleonardo.github.io/project/neocaritas/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Won first prize at StartHack 2018 out of 350+ participants.&lt;/li&gt;
 &lt;li&gt;Created a decentralized application running on the Neo blockchain to facilitate the process of donations&lt;/li&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python | Travelling Codesman</title>
-    <link>/tag/python/</link>
-      <atom:link href="/tag/python/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aounleonardo.github.io/tag/python/</link>
+      <atom:link href="https://aounleonardo.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
     <description>Python</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Sun, 29 Mar 2020 23:59:10 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu474e9d5b9405385f9dc734dc8895eb59_313813_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aounleonardo.github.io/images/icon_hu474e9d5b9405385f9dc734dc8895eb59_313813_512x512_fill_lanczos_center_2.png</url>
       <title>Python</title>
-      <link>/tag/python/</link>
+      <link>https://aounleonardo.github.io/tag/python/</link>
     </image>
     
     <item>
       <title>Spread Classification</title>
-      <link>/project/spread_classification/</link>
+      <link>https://aounleonardo.github.io/project/spread_classification/</link>
       <pubDate>Sun, 29 Mar 2020 23:59:10 +0100</pubDate>
-      <guid>/project/spread_classification/</guid>
+      <guid>https://aounleonardo.github.io/project/spread_classification/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Collaborated with a &lt;a href=&#34;https://astroscreen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;start-up&lt;/a&gt; focused on detecting Social Media Manipulation and the &lt;a href=&#34;https://cvlab.epfl.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer Vision Lab&lt;/a&gt; at EPFL&lt;/li&gt;
 &lt;li&gt;Reviewed the literature on Geometric Deep Learning and Social Media Manipulation Detection and Computer Vision&lt;/li&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title>Pitchgrader</title>
-      <link>/project/pitchgrader/</link>
+      <link>https://aounleonardo.github.io/project/pitchgrader/</link>
       <pubDate>Fri, 08 Jun 2018 00:00:17 +0100</pubDate>
-      <guid>/project/pitchgrader/</guid>
+      <guid>https://aounleonardo.github.io/project/pitchgrader/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Built an application to analyze Football and Tennis fields in Switzerland&lt;/li&gt;
 &lt;li&gt;Used NodeJS and React for the web app&lt;/li&gt;

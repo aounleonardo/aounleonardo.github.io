@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unity | Travelling Codesman</title>
-    <link>/tag/unity/</link>
-      <atom:link href="/tag/unity/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aounleonardo.github.io/tag/unity/</link>
+      <atom:link href="https://aounleonardo.github.io/tag/unity/index.xml" rel="self" type="application/rss+xml" />
     <description>Unity</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Mon, 28 May 2018 00:00:13 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu474e9d5b9405385f9dc734dc8895eb59_313813_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aounleonardo.github.io/images/icon_hu474e9d5b9405385f9dc734dc8895eb59_313813_512x512_fill_lanczos_center_2.png</url>
       <title>Unity</title>
-      <link>/tag/unity/</link>
+      <link>https://aounleonardo.github.io/tag/unity/</link>
     </image>
     
     <item>
       <title>Catapult VR</title>
-      <link>/project/catapult_vr/</link>
+      <link>https://aounleonardo.github.io/project/catapult_vr/</link>
       <pubDate>Mon, 28 May 2018 00:00:13 +0100</pubDate>
-      <guid>/project/catapult_vr/</guid>
+      <guid>https://aounleonardo.github.io/project/catapult_vr/</guid>
       <description>&lt;p&gt;Optimized accurate and intuitive hand interactions with a VR catapult in a ’Angry Birds’-like game on Unity&lt;/p&gt;
 </description>
     </item>

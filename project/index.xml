@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Travelling Codesman</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aounleonardo.github.io/project/</link>
+      <atom:link href="https://aounleonardo.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Sun, 29 Mar 2020 23:59:10 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu474e9d5b9405385f9dc734dc8895eb59_313813_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aounleonardo.github.io/images/icon_hu474e9d5b9405385f9dc734dc8895eb59_313813_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://aounleonardo.github.io/project/</link>
     </image>
     
     <item>
       <title>Spread Classification</title>
-      <link>/project/spread_classification/</link>
+      <link>https://aounleonardo.github.io/project/spread_classification/</link>
       <pubDate>Sun, 29 Mar 2020 23:59:10 +0100</pubDate>
-      <guid>/project/spread_classification/</guid>
+      <guid>https://aounleonardo.github.io/project/spread_classification/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Collaborated with a &lt;a href=&#34;https://astroscreen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;start-up&lt;/a&gt; focused on detecting Social Media Manipulation and the &lt;a href=&#34;https://cvlab.epfl.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer Vision Lab&lt;/a&gt; at EPFL&lt;/li&gt;
 &lt;li&gt;Reviewed the literature on Geometric Deep Learning and Social Media Manipulation Detection and Computer Vision&lt;/li&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title>RASP</title>
-      <link>/project/rasp/</link>
+      <link>https://aounleonardo.github.io/project/rasp/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:03 +0100</pubDate>
-      <guid>/project/rasp/</guid>
+      <guid>https://aounleonardo.github.io/project/rasp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Created an asynchronous yet fair Rock Paper Scissors game&lt;/li&gt;
 &lt;li&gt;Coded the UI in React and the supporting blockchain in Golang&lt;/li&gt;
@@ -40,18 +40,18 @@
     
     <item>
       <title>Indoor Navigator</title>
-      <link>/project/indoor_navigator/</link>
+      <link>https://aounleonardo.github.io/project/indoor_navigator/</link>
       <pubDate>Fri, 28 Sep 2018 23:59:56 +0100</pubDate>
-      <guid>/project/indoor_navigator/</guid>
+      <guid>https://aounleonardo.github.io/project/indoor_navigator/</guid>
       <description>&lt;p&gt;Implemented a plugin to the EPFLCampus ioS app to localize users inside campus buildings and navigate them to their desired destination in augmented reality&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pitchgrader</title>
-      <link>/project/pitchgrader/</link>
+      <link>https://aounleonardo.github.io/project/pitchgrader/</link>
       <pubDate>Fri, 08 Jun 2018 00:00:17 +0100</pubDate>
-      <guid>/project/pitchgrader/</guid>
+      <guid>https://aounleonardo.github.io/project/pitchgrader/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Built an application to analyze Football and Tennis fields in Switzerland&lt;/li&gt;
 &lt;li&gt;Used NodeJS and React for the web app&lt;/li&gt;
@@ -62,18 +62,18 @@
     
     <item>
       <title>Catapult VR</title>
-      <link>/project/catapult_vr/</link>
+      <link>https://aounleonardo.github.io/project/catapult_vr/</link>
       <pubDate>Mon, 28 May 2018 00:00:13 +0100</pubDate>
-      <guid>/project/catapult_vr/</guid>
+      <guid>https://aounleonardo.github.io/project/catapult_vr/</guid>
       <description>&lt;p&gt;Optimized accurate and intuitive hand interactions with a VR catapult in a ’Angry Birds’-like game on Unity&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Neocaritas</title>
-      <link>/project/neocaritas/</link>
+      <link>https://aounleonardo.github.io/project/neocaritas/</link>
       <pubDate>Sun, 25 Feb 2018 23:59:24 +0100</pubDate>
-      <guid>/project/neocaritas/</guid>
+      <guid>https://aounleonardo.github.io/project/neocaritas/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Won first prize at StartHack 2018 out of 350+ participants.&lt;/li&gt;
 &lt;li&gt;Created a decentralized application running on the Neo blockchain to facilitate the process of donations&lt;/li&gt;
@@ -83,9 +83,9 @@
     
     <item>
       <title>Spellcraft</title>
-      <link>/project/spellcraft/</link>
+      <link>https://aounleonardo.github.io/project/spellcraft/</link>
       <pubDate>Wed, 07 Dec 2016 00:00:25 +0100</pubDate>
-      <guid>/project/spellcraft/</guid>
+      <guid>https://aounleonardo.github.io/project/spellcraft/</guid>
       <description>&lt;p&gt;Built the UX for a multiplayer wizard fighting augmented-reality game for the Microsoft Hololens&lt;/p&gt;
 </description>
     </item>

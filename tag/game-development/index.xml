@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game Development | Travelling Codesman</title>
-    <link>/tag/game-development/</link>
-      <atom:link href="/tag/game-development/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aounleonardo.github.io/tag/game-development/</link>
+      <atom:link href="https://aounleonardo.github.io/tag/game-development/index.xml" rel="self" type="application/rss+xml" />
     <description>Game Development</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Sun, 06 Jan 2019 00:00:03 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu474e9d5b9405385f9dc734dc8895eb59_313813_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aounleonardo.github.io/images/icon_hu474e9d5b9405385f9dc734dc8895eb59_313813_512x512_fill_lanczos_center_2.png</url>
       <title>Game Development</title>
-      <link>/tag/game-development/</link>
+      <link>https://aounleonardo.github.io/tag/game-development/</link>
     </image>
     
     <item>
       <title>RASP</title>
-      <link>/project/rasp/</link>
+      <link>https://aounleonardo.github.io/project/rasp/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:03 +0100</pubDate>
-      <guid>/project/rasp/</guid>
+      <guid>https://aounleonardo.github.io/project/rasp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Created an asynchronous yet fair Rock Paper Scissors game&lt;/li&gt;
 &lt;li&gt;Coded the UI in React and the supporting blockchain in Golang&lt;/li&gt;
@@ -26,18 +26,18 @@
     
     <item>
       <title>Catapult VR</title>
-      <link>/project/catapult_vr/</link>
+      <link>https://aounleonardo.github.io/project/catapult_vr/</link>
       <pubDate>Mon, 28 May 2018 00:00:13 +0100</pubDate>
-      <guid>/project/catapult_vr/</guid>
+      <guid>https://aounleonardo.github.io/project/catapult_vr/</guid>
       <description>&lt;p&gt;Optimized accurate and intuitive hand interactions with a VR catapult in a ’Angry Birds’-like game on Unity&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Spellcraft</title>
-      <link>/project/spellcraft/</link>
+      <link>https://aounleonardo.github.io/project/spellcraft/</link>
       <pubDate>Wed, 07 Dec 2016 00:00:25 +0100</pubDate>
-      <guid>/project/spellcraft/</guid>
+      <guid>https://aounleonardo.github.io/project/spellcraft/</guid>
       <description>&lt;p&gt;Built the UX for a multiplayer wizard fighting augmented-reality game for the Microsoft Hololens&lt;/p&gt;
 </description>
     </item>
